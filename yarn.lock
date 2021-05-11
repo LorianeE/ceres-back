@@ -815,6 +815,18 @@
     "@types/express-serve-static-core" "*"
     "@types/mime" "*"
 
+"@types/sinon@^9.0.0":
+  version "9.0.11"
+  resolved "https://registry.yarnpkg.com/@types/sinon/-/sinon-9.0.11.tgz#7af202dda5253a847b511c929d8b6dda170562eb"
+  integrity sha512-PwP4UY33SeeVKodNE37ZlOsR9cReypbMJOhZ7BVE0lB+Hix3efCOxiJWiE5Ia+yL9Cn2Ch72EjFTRze8RZsNtg==
+  dependencies:
+    "@types/sinonjs__fake-timers" "*"
+
+"@types/sinonjs__fake-timers@*":
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/@types/sinonjs__fake-timers/-/sinonjs__fake-timers-6.0.2.tgz#3a84cf5ec3249439015e14049bd3161419bf9eae"
+  integrity sha512-dIPoZ3g5gcx9zZEszaxLSVTvMReD3xxyyDnQUjA6IYDG9Ba2AV0otMPs+77sG9ojB4Qr2N2Vk5RnKeuA0X/0bg==
+
 "@types/stack-utils@^1.0.1":
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/@types/stack-utils/-/stack-utils-1.0.1.tgz#0a851d3bd96498fa25c33ab7278ed3bd65f06c3e"
@@ -2483,9 +2495,9 @@ has-yarn@^2.1.0:
   integrity sha512-UqBRqi4ju7T+TqGNdqAO0PaSVGsDGJUBQvk9eUWNGRY1CFGDzYhLWoM7JQEemnlvVcv/YEmc2wNW8BC24EnUsw==
 
 hosted-git-info@^2.1.4:
-  version "2.8.8"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.8.tgz#7539bd4bc1e0e0a895815a2e0262420b12858488"
-  integrity sha512-f/wzC2QaWBs7t9IYqB4T3sR1xviIViXJRJTWBlx2Gf3g0Xi5vI7Yy4koXQ1c9OYDGHN9sBy1DQ2AB8fqZBWhUg==
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
+  integrity sha512-mxIDAb9Lsm6DoOJ7xH+5+X4y1LU/4Hi50L9C5sIswK3JzULS4bwk1FvjdBgvYR4bzT4tuUQiC15FE2f5HbLvYw==
 
 html-encoding-sniffer@^1.0.2:
   version "1.0.2"
